@@ -23,7 +23,7 @@
 - 💊 **Who I am:** an Egyptian pharmacist with 21 years in pharma and dermocosmetics. Senior Brand Manager for **ISISPHARMA** in Saudi Arabia, and Marketing & Sales Manager for Filorga, ISISPHARMA, Bionex, Foltene and Dermactive in Bahrain.
 - 🛠️ **What I build:** practical AI solutions for pharma teams (a live training portal for medical reps, automated sales reporting, data dashboards) plus Arabic AI research tools.
 - 🎬 **What I create:** AI cinematic short films, trailers and Arabic whiteboard explainer videos, from story and characters to shot-by-shot direction.
-- 🤖 **How I build:** I lead a fleet of AI agents (Claude Code, Codex, Cursor, Gemini, Grok and more) and verify every result myself.
+- 🤖 **How I build:** I lead a fleet of AI agents (Claude Code, Codex, Cursor, Gemini, Grok and more) and verify every result myself. I share my skills openly in [Refay Skills](https://github.com/drkhaledalrefay-coder/refay-skills).
 - 🔭 **Currently working on:** a bigger architecture for the BIC training platform, my 2027 brand plan, and new films in my AI Cinematic Studio.
 
 ---
@@ -54,7 +54,26 @@
 
 ---
 
-<!-- ═════════════ 4. HOW I WORK ═════════════ -->
+<!-- ═════════════ 4. OPEN-SOURCE SKILLS ═════════════ -->
+## 🎁 Open-Source Skills: Refay Skills
+
+I share the AI agent skills I build, free for everyone: **19 skills** across four areas. Use them with Claude, ChatGPT, Codex or any AI agent.
+
+<p align="center">
+  <a href="https://github.com/drkhaledalrefay-coder/refay-skills"><img src="https://img.shields.io/badge/Refay%20Skills-19%20free%20AI%20skills-2EA043?style=for-the-badge&logo=github&logoColor=white" alt="Refay Skills" /></a>
+  <img src="https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey?style=for-the-badge" alt="CC BY 4.0" />
+</p>
+
+| Area | What's inside |
+|---|---|
+| 🎬 **[Cinematic AI](https://github.com/drkhaledalrefay-coder/refay-skills/tree/main/cinematic)** | Painterly 2.5D film pipeline: world-building, characters, action, multi-shot animation, short-film production |
+| 🤖 **[Agent Fleets](https://github.com/drkhaledalrefay-coder/refay-skills/tree/main/agent-fleet)** | Run a team of AI agents: orchestrate, delegate, verify, produce explainer videos |
+| 🛠️ **[Vibe Coding](https://github.com/drkhaledalrefay-coder/refay-skills/tree/main/vibe-coding)** | Architect, audit and harden AI-built apps; cinematic website heroes |
+| 📣 **[Marketing](https://github.com/drkhaledalrefay-coder/refay-skills/tree/main/marketing)** | Brand campaign planner, product-range training courses, UGC campaigns, GitHub profile builder |
+
+---
+
+<!-- ═════════════ 5. HOW I WORK ═════════════ -->
 ## 🤖 How I Work: An AI Agent Fleet
 
 I don't build alone. I run a **fleet of AI agents**, each with a clear role:
@@ -70,7 +89,7 @@ I don't build alone. I run a **fleet of AI agents**, each with a clear role:
 
 ---
 
-<!-- ═════════════ 5. TECH STACK & TOOLS ═════════════ -->
+<!-- ═════════════ 6. TECH STACK & TOOLS ═════════════ -->
 ## 🧰 Tech Stack & Tools
 
 **AI Agents & Coding**
@@ -122,7 +141,7 @@ I don't build alone. I run a **fleet of AI agents**, each with a clear role:
 
 ---
 
-<!-- ═════════════ 6. GITHUB STATS ═════════════ -->
+<!-- ═════════════ 7. GITHUB STATS ═════════════ -->
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -136,7 +155,7 @@ I don't build alone. I run a **fleet of AI agents**, each with a clear role:
 
 ---
 
-<!-- ═════════════ 7. CONNECT ═════════════ -->
+<!-- ═════════════ 8. CONNECT ═════════════ -->
 ## 🤝 Connect With Me
 
 <p align="center">

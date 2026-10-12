@@ -11,7 +11,9 @@
 <img src="https://img.shields.io/badge/21%20Years-Pharma%20%26%20Dermocosmetics-0A66C2?style=for-the-badge" alt="21 years pharma" />
 <img src="https://img.shields.io/badge/AI--Powered-Builder%20%26%20Filmmaker-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="AI-powered builder and filmmaker" />
 <img src="https://img.shields.io/badge/KSA%20%C2%B7%20Bahrain-1F883D?style=for-the-badge" alt="KSA · Bahrain" />
-<img src="https://komarev.com/ghpvc/?username=drkhaledalrefay-coder&style=for-the-badge&color=blueviolet&label=Profile+Views" alt="Profile views" />
+<a href="https://hits.sh/github.com/drkhaledalrefay-coder/">
+<img src="https://hits.sh/github.com/drkhaledalrefay-coder.svg?style=for-the-badge&amp;label=Profile%20Views&amp;color=blueviolet" alt="Profile views" />
+</a>
 
 </div>
 

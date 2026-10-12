@@ -57,10 +57,10 @@
 <!-- ═════════════ 4. OPEN-SOURCE SKILLS ═════════════ -->
 ## 🎁 Open-Source Skills: Refay Skills
 
-I share the AI agent skills I build, free for everyone: **19 skills** across four areas. Use them with Claude, ChatGPT, Codex or any AI agent.
+I share the AI agent skills I build, free for everyone: **20 skills** across four areas. Use them with Claude, ChatGPT, Codex or any AI agent.
 
 <p align="center">
-  <a href="https://github.com/drkhaledalrefay-coder/refay-skills"><img src="https://img.shields.io/badge/Refay%20Skills-19%20free%20AI%20skills-2EA043?style=for-the-badge&logo=github&logoColor=white" alt="Refay Skills" /></a>
+  <a href="https://github.com/drkhaledalrefay-coder/refay-skills"><img src="https://img.shields.io/badge/Refay%20Skills-20%20free%20AI%20skills-2EA043?style=for-the-badge&logo=github&logoColor=white" alt="Refay Skills" /></a>
   <img src="https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey?style=for-the-badge" alt="CC BY 4.0" />
 </p>
 

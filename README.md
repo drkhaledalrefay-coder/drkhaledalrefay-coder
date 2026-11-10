@@ -6,11 +6,12 @@
 
 # Hi, I'm Khaled Al Refay 👋
 
-### Pharmacist · Senior Brand Manager · AI Solutions & Cinematic Storytelling
+### Pharmacist · Senior Brand Manager · AI Builder · Creator of [Joodframe](https://www.youtube.com/@joodframe)
 
 <img src="https://img.shields.io/badge/21%20Years-Pharma%20%26%20Dermocosmetics-0A66C2?style=for-the-badge" alt="21 years pharma" />
 <img src="https://img.shields.io/badge/AI--Powered-Builder%20%26%20Filmmaker-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="AI-powered builder and filmmaker" />
 <img src="https://img.shields.io/badge/KSA%20%C2%B7%20Bahrain-1F883D?style=for-the-badge" alt="KSA · Bahrain" />
+<a href="https://www.youtube.com/@joodframe"><img src="https://img.shields.io/badge/YouTube-Joodframe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Joodframe on YouTube" /></a>
 <a href="https://hits.sh/github.com/drkhaledalrefay-coder/">
 <img src="https://hits.sh/github.com/drkhaledalrefay-coder.svg?style=for-the-badge&amp;label=Profile%20Views&amp;color=blueviolet" alt="Profile views" />
 </a>
@@ -23,21 +24,39 @@
 ## 🧭 About Me
 
 - 💊 **Who I am:** an Egyptian pharmacist with 21 years in pharma and dermocosmetics. Senior Brand Manager for **ISISPHARMA** in Saudi Arabia, and Marketing & Sales Manager for Filorga, ISISPHARMA, Bionex, Foltene and Dermactive in Bahrain.
-- 🛠️ **What I build:** practical AI solutions for pharma teams (a live training portal for medical reps, automated sales reporting, data dashboards) plus Arabic AI research tools.
-- 🎬 **What I create:** AI cinematic short films, trailers and Arabic whiteboard explainer videos, from story and characters to shot-by-shot direction.
+- 🛠️ **What I build:** practical AI solutions for pharma teams (a live training portal for medical reps, automated sales reporting, data dashboards) plus Arabic AI research tools. I don't write code by hand; I direct AI agents and verify what they ship.
+- 🎬 **What I create:** AI short films, animation, car-chase previz and Arabic explainers, published on my YouTube channel **[Joodframe | جود فريم](https://www.youtube.com/@joodframe)**.
 - 🤖 **How I build:** I lead a fleet of AI agents (Claude Code, Codex, Cursor, Gemini, Grok and more) and verify every result myself. I share my skills openly in [Refay Skills](https://github.com/drkhaledalrefay-coder/refay-skills).
-- 🔭 **Currently working on:** a bigger architecture for the BIC training platform, my 2027 brand plan, and new films in my AI Cinematic Studio.
+- 🔭 **Currently working on:** my 2027 brand plan, a Qur'an stories animation series, and weekly releases on Joodframe.
 
 ---
 
-<!-- ═════════════ 3. SELECTED WORK ═════════════ -->
+<!-- ═════════════ 3. JOODFRAME ═════════════ -->
+## 📺 Joodframe | جود فريم — My YouTube Channel
+
+*«هنا الفكرة تبدأ... والباقي حكاية!»* Ideas, projects and the way I work: marketing, vibe coding, AI tools, and films made with them. Arabic and English.
+
+| Latest release | What it is |
+|---|---|
+| [**Gone in 15 Seconds**](https://youtu.be/QMMybZoYd0g) | My first time in Blender: a car chase planned in 3D previz, then rendered in four AI styles with Seedance 2.0 Mini |
+| [**The Other Half · النصف الآخر**](https://youtu.be/MSmu9zSbJ1o) | A 2.5-minute animated short about a baker, a loaf of bread and kindness |
+
+**Playlists:** JoodFrame Animation · AI على أرض الواقع · صفحات من التاريخ | Pages from History · تحدّي الأُوتوميشن · Short AI Movies
+
+<p align="center">
+  <a href="https://www.youtube.com/@joodframe?sub_confirmation=1"><img src="https://img.shields.io/badge/Subscribe-%40joodframe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe to Joodframe" /></a>
+</p>
+
+---
+
+<!-- ═════════════ 4. SELECTED WORK ═════════════ -->
 ## 📌 Selected Work
 
 **Business Solutions**
 
 | Project | What it does |
 |---|---|
-| **BIC Platform** *(private, live)* | Online training portal for ISISPHARMA medical reps and beauty advisers in Saudi Arabia. Brand courses, role-based access, live in production. |
+| **Training Portal** *(private, live)* | Online training portal for ISISPHARMA medical reps and beauty advisers in Saudi Arabia. Brand courses, role-based access, live in production. |
 | **Sales Reporting System** *(private)* | Monthly sell-in / sell-out / stock reporting for a national pharmacy chain, with separate reports for management, field and distribution. |
 | [**Fahras Manahij al-Tafsir**](https://github.com/drkhaledalrefay-coder/fahras-manahij-al-tafsir) | Arabic index of Qur'anic exegesis methods. AI proposes, scholars verify. Built for the Islamic AI Challenge (track 04). |
 | [**tafsir-methods-index**](https://github.com/yyahmed82/tafsir-methods-index) | The team's official submission repo for the same challenge. I'm a contributor. |
@@ -50,32 +69,33 @@
 | **Odyssey** | Painterly short film, plus an IMAX-style photoreal remake |
 | **LAYLA** · **The Little Kick** · **AI Love Story** | Short films |
 | **Black Battalion** | Short film and trailer (completed) |
+| **The Other Half** · **Gone in 15 Seconds** | Published on [Joodframe](https://www.youtube.com/@joodframe) |
 | **Whiteboard Explainers** | Arabic explainer video series, built on a 6-phase production method |
 
-<sub>Films are available on request.</sub>
+<sub>Newer films are on <a href="https://www.youtube.com/@joodframe">Joodframe</a>; older ones are available on request.</sub>
 
 ---
 
-<!-- ═════════════ 4. OPEN-SOURCE SKILLS ═════════════ -->
+<!-- ═════════════ 5. OPEN-SOURCE SKILLS ═════════════ -->
 ## 🎁 Open-Source Skills: Refay Skills
 
-I share the AI agent skills I build, free for everyone: **20 skills** across four areas. Use them with Claude, ChatGPT, Codex or any AI agent.
+I share the AI agent skills I build, free for everyone: **25 skills** across four areas. Use them with Claude, ChatGPT, Codex or any AI agent.
 
 <p align="center">
-  <a href="https://github.com/drkhaledalrefay-coder/refay-skills"><img src="https://img.shields.io/badge/Refay%20Skills-20%20free%20AI%20skills-2EA043?style=for-the-badge&logo=github&logoColor=white" alt="Refay Skills" /></a>
+  <a href="https://github.com/drkhaledalrefay-coder/refay-skills"><img src="https://img.shields.io/badge/Refay%20Skills-25%20free%20AI%20skills-2EA043?style=for-the-badge&logo=github&logoColor=white" alt="Refay Skills" /></a>
   <img src="https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey?style=for-the-badge" alt="CC BY 4.0" />
 </p>
 
 | Area | What's inside |
 |---|---|
-| 🎬 **[Cinematic AI](https://github.com/drkhaledalrefay-coder/refay-skills/tree/main/cinematic)** | Painterly 2.5D film pipeline: world-building, characters, action, multi-shot animation, short-film production |
-| 🤖 **[Agent Fleets](https://github.com/drkhaledalrefay-coder/refay-skills/tree/main/agent-fleet)** | Run a team of AI agents: orchestrate, delegate, verify, produce explainer videos |
-| 🛠️ **[Vibe Coding](https://github.com/drkhaledalrefay-coder/refay-skills/tree/main/vibe-coding)** | Architect, audit and harden AI-built apps; cinematic website heroes |
-| 📣 **[Marketing](https://github.com/drkhaledalrefay-coder/refay-skills/tree/main/marketing)** | Brand campaign planner, product-range training courses, UGC campaigns, GitHub profile builder |
+| 🎬 **[Cinematic AI](https://github.com/drkhaledalrefay-coder/refay-skills/tree/main/cinematic)** | Painterly 2.5D film pipeline, anime stories for Flow and Seedance, whiteboard explainers, Higgsfield asset organizer |
+| 🤖 **[Agent Fleets](https://github.com/drkhaledalrefay-coder/refay-skills/tree/main/agent-fleet)** | Run a team of AI agents: orchestrate, conduct, delegate, verify, produce explainer videos |
+| 🛠️ **[Vibe Coding](https://github.com/drkhaledalrefay-coder/refay-skills/tree/main/vibe-coding)** | Architect, audit and harden AI-built apps; truthful living READMEs; cinematic website heroes |
+| 📣 **[Marketing](https://github.com/drkhaledalrefay-coder/refay-skills/tree/main/marketing)** | Brand campaign planner, product-range training courses, UGC campaigns, prompt optimizer, GitHub profile builder |
 
 ---
 
-<!-- ═════════════ 5. HOW I WORK ═════════════ -->
+<!-- ═════════════ 6. HOW I WORK ═════════════ -->
 ## 🤖 How I Work: An AI Agent Fleet
 
 I don't build alone. I run a **fleet of AI agents**, each with a clear role:
@@ -91,7 +111,7 @@ I don't build alone. I run a **fleet of AI agents**, each with a clear role:
 
 ---
 
-<!-- ═════════════ 6. TECH STACK & TOOLS ═════════════ -->
+<!-- ═════════════ 7. TECH STACK & TOOLS ═════════════ -->
 ## 🧰 Tech Stack & Tools
 
 **AI Agents & Coding**
@@ -116,6 +136,9 @@ I don't build alone. I run a **fleet of AI agents**, each with a clear role:
   <img src="https://img.shields.io/badge/Google%20Flow%20%C2%B7%20Veo-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Flow Veo" />
   <img src="https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white" alt="ElevenLabs" />
   <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
+  <img src="https://img.shields.io/badge/HyperFrames-222222?style=for-the-badge" alt="HyperFrames" />
+  <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" alt="FFmpeg" />
 </p>
 
 **Build & Ship**
@@ -143,7 +166,7 @@ I don't build alone. I run a **fleet of AI agents**, each with a clear role:
 
 ---
 
-<!-- ═════════════ 7. GITHUB STATS ═════════════ -->
+<!-- ═════════════ 8. GITHUB STATS ═════════════ -->
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -157,13 +180,12 @@ I don't build alone. I run a **fleet of AI agents**, each with a clear role:
 
 ---
 
-<!-- ═════════════ 8. CONNECT ═════════════ -->
+<!-- ═════════════ 9. CONNECT ═════════════ -->
 ## 🤝 Connect With Me
 
 <p align="center">
   <a href="mailto:dr.khaled.alrefay@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/drkhaledalrefay-coder"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <!-- Add once you have the URL:
-  <a href="https://www.linkedin.com/in/YOUR-SLUG/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
-  -->
+  <a href="https://www.youtube.com/@joodframe"><img src="https://img.shields.io/badge/YouTube-Joodframe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://www.linkedin.com/in/khaled-el-refay-mba-49771412a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
 </p>
